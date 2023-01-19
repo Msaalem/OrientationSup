@@ -1,3 +1,8 @@
+"""
+this is the program used to oriente students
+
+"""
+
 s = {
     'A': ['CNM', 'DSI', 'RSS'],
     'B': ['CNM', 'DSI', 'RSS'],
